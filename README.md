@@ -37,13 +37,13 @@ To run the project, you need Python 3.x along with the following libraries:
 
 You can install the required dependencies using the following:
 
-```bash
+
 pip install tensorflow numpy pandas matplotlib scikit-learn
 Usage
 Clone this repository to your local machine:
 
-bash
-Copy code
+
+
 git clone https://github.com/KUMU-THA/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 Place the dataset file (creditcard.csv) in the project folder.
